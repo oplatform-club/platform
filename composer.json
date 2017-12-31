@@ -51,7 +51,7 @@
         "mtdowling/cron-expression": "1.1.0",
         "jdare/clank-bundle": "0.1.*",
         "guzzle/guzzle": "3.7.*",
-        "lexik/maintenance-bundle": "2.1.1",
+        "lexik/maintenance-bundle": "dev-master",
         "sylius/flow-bundle": "0.19.*",
         "composer/composer": "1.4.*",
         "akeneo/batch-bundle": "0.4.2",
